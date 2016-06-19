@@ -4,3 +4,9 @@ c:\users\student\documents\visual studio 2015\Projects\Reverse\bin\Debug\Reverse
 c:\users\student\documents\visual studio 2015\Projects\Reverse\obj\Debug\Reverse.csprojResolveAssemblyReference.cache
 c:\users\student\documents\visual studio 2015\Projects\Reverse\obj\Debug\Reverse.exe
 c:\users\student\documents\visual studio 2015\Projects\Reverse\obj\Debug\Reverse.pdb
+C:\Users\Student\Documents\GitHub\Reverse\Reverse\bin\Debug\Reverse.exe.config
+C:\Users\Student\Documents\GitHub\Reverse\Reverse\obj\Debug\Reverse.exe
+C:\Users\Student\Documents\GitHub\Reverse\Reverse\obj\Debug\Reverse.pdb
+C:\Users\Student\Documents\GitHub\Reverse\Reverse\bin\Debug\Reverse.exe
+C:\Users\Student\Documents\GitHub\Reverse\Reverse\bin\Debug\Reverse.pdb
+C:\Users\Student\Documents\GitHub\Reverse\Reverse\obj\Debug\Reverse.csprojResolveAssemblyReference.cache
